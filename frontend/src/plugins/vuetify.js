@@ -4,15 +4,15 @@ import Vuetify from 'vuetify/lib'
 Vue.use(Vuetify)
 
 const opts = {
-    theme: {
-      themes: {
-        light: {
-            primary: '#DCE1E9',
-            secondary: '#363732',
-            accent: '#e88b01'
-        },
+  theme: {
+    themes: {
+      light: {
+        primary: '#DCE1E9',
+        secondary: '#363732',
+        accent: '#0421f9'
       },
     },
-  }
+  },
+}
 
 export default new Vuetify(opts)
