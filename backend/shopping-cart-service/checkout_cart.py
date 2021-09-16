@@ -62,7 +62,7 @@ def lambda_handler(event, context):
             # Add items to orders table
             orders_pk = f"order#{user_id}#{epoch}"
             product_sk = item["sk"]
-            orders_sk = f"product#{product_sk}"
+            orders_sk = product_sk
             # product_id = item["product_id"]
             # quantity = item["quantity"]
             table_order.put_item(
