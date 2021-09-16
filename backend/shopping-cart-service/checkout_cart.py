@@ -1,7 +1,7 @@
 import json
 import os
 import time
-
+import email_ses
 import boto3
 from aws_lambda_powertools import Logger, Metrics, Tracer
 from boto3.dynamodb.conditions import Key
@@ -51,6 +51,9 @@ def lambda_handler(event, context):
 
     epoch = time.time()
     cart_items = response.get("Items")
+    email_ses.send_email(event["requestContext"]["authorizer"]["claims"]["cognito:username"],
+                         event["requestContext"]["authorizer"]["claims"]["email"], cart_items)
+
     # batch_writer will be used to update status for cart entries belonging to the user
     with table.batch_writer() as batch:
         print(cart_items)
