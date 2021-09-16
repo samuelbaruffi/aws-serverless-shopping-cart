@@ -4,8 +4,10 @@
       <v-toolbar-title>
         <router-link tag="div" to="/">
           <a class="accent--text header font-weight-black">
-            DEMO
-            <span class="font-weight-thin subheading secondary--text">Store</span>
+            OCTANK
+            <span class="font-weight-thin subheading secondary--text"
+              >Store</span
+            >
           </a>
         </router-link>
       </v-toolbar-title>
@@ -13,7 +15,10 @@
         <v-btn to="/auth" v-if="!currentUser" text class="ml-2">Sign In</v-btn>
         <cart-button @drawerChange="toggleDrawer" />
         <div class="sign-out">
-          <amplify-sign-out v-if="currentUser" class="Form--signout pl-2"></amplify-sign-out>
+          <amplify-sign-out
+            v-if="currentUser"
+            class="Form--signout pl-2"
+          ></amplify-sign-out>
         </div>
       </v-toolbar-items>
     </v-app-bar>
@@ -25,7 +30,7 @@
         </v-fade-transition>
       </v-container>
       <v-navigation-drawer
-        style="position:fixed; overflow-y:scroll;"
+        style="position: fixed; overflow-y: scroll"
         right
         v-model="drawer"
         temporary
@@ -46,7 +51,7 @@ export default {
   name: "app",
   data() {
     return {
-      drawer: null
+      drawer: null,
     };
   },
   mounted() {
@@ -54,7 +59,7 @@ export default {
   },
   computed: {
     ...mapGetters(["cartSize", "currentUser"]),
-    ...mapState(["cartLoading"])
+    ...mapState(["cartLoading"]),
   },
   methods: {
     logout() {
@@ -62,8 +67,8 @@ export default {
     },
     toggleDrawer() {
       this.drawer = !this.drawer;
-    }
-  }
+    },
+  },
 };
 </script>
 

@@ -12,8 +12,10 @@ import router from '@/router'
 const setLoading = ({
     commit
 }, payload) => {
-    commit("setLoading", {value: payload.value,
-    message: payload.message})
+    commit("setLoading", {
+        value: payload.value,
+        message: payload.message
+    })
 }
 
 const fetchProducts = ({
@@ -26,11 +28,11 @@ const fetchProducts = ({
 const fetchCart = ({
     commit
 }) => {
-    commit("setLoading", {value: true})
+    commit("setLoading", { value: true })
     getCart()
         .then((response) => {
             commit("setUpCart", response.products)
-            commit("setLoading", {value: false})
+            commit("setLoading", { value: false })
         })
 }
 const addToCart = ({
@@ -104,23 +106,23 @@ const updateCart = ({
 const migrateCart = ({
     commit
 }) => {
-    commit("setLoading", {value: true})
+    commit("setLoading", { value: true })
     cartMigrate()
         .then((response) => {
             commit("setUpCart", response.products)
-            commit("setLoading", {value: false})
+            commit("setLoading", { value: false })
         })
 }
 
 const checkoutCart = ({
     commit
 }) => {
-    commit("setLoading", {value: true, message: "This is where we'd handle payment before clearing the cart..."})
+    commit("setLoading", { value: true, message: "Saving your order, and sending order notification via e-mail!" })
     cartCheckout()
         .then(() => {
             commit("setUpCart", [])
-            setTimeout(function() {commit("setLoading", {value: false})}, 3000)
-            setTimeout(function() {router.push("/")}, 3200)
+            setTimeout(function () { commit("setLoading", { value: false }) }, 3000)
+            setTimeout(function () { router.push("/") }, 3200)
         })
 }
 
