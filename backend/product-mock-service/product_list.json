@@ -1,10 +1,10 @@
 [
     {
-        "category": "fruit",
+        "category": "Fruit",
         "createdDate": "2017-04-17T01:14:03 -02:00",
-        "description": "Culpa non veniam deserunt dolor irure elit cupidatat culpa consequat nulla irure aliqua.",
+        "description": "Prepacked Fresh Strawberries 5 lbs.",
         "modifiedDate": "2019-03-13T12:18:27 -01:00",
-        "name": "packaged strawberries",
+        "name": "Strawberries",
         "package": {
             "height": 948,
             "length": 455,
@@ -25,11 +25,11 @@
         ]
     },
     {
-        "category": "sweets",
+        "category": "Fruit",
         "createdDate": "2017-04-06T06:21:36 -02:00",
-        "description": "Dolore ipsum eiusmod dolore aliquip laborum laborum aute ipsum commodo id irure duis ipsum.",
+        "description": "Signature Farms Pitted Prunes.",
         "modifiedDate": "2019-09-21T12:08:48 -02:00",
-        "name": "candied prunes",
+        "name": "Pitted Prunes",
         "package": {
             "height": 329,
             "length": 179,
@@ -50,11 +50,11 @@
         ]
     },
     {
-        "category": "fruit",
+        "category": "Fruit",
         "createdDate": "2017-03-17T03:06:53 -01:00",
-        "description": "Reprehenderit aliquip consequat quis excepteur et et esse exercitation adipisicing dolore nulla consequat.",
+        "description": "Signature Farms Fresh Prunes.",
         "modifiedDate": "2019-11-25T12:32:49 -01:00",
-        "name": "fresh prunes",
+        "name": "Fresh prunes",
         "package": {
             "height": 736,
             "length": 567,
@@ -75,11 +75,11 @@
         ]
     },
     {
-        "category": "vegetable",
+        "category": "Vegetable",
         "createdDate": "2018-07-17T02:14:55 -02:00",
-        "description": "Minim qui elit dolor est commodo excepteur ea voluptate eu dolor culpa magna.",
+        "description": "Prepacked Tomatoes 2 lbs.",
         "modifiedDate": "2019-09-05T03:36:34 -02:00",
-        "name": "packaged tomatoes",
+        "name": "Packaged Tomatoes",
         "package": {
             "height": 4,
             "length": 756,
@@ -100,11 +100,11 @@
         ]
     },
     {
-        "category": "vegetable",
+        "category": "Vegetable",
         "createdDate": "2017-07-25T12:00:11 -02:00",
-        "description": "Labore dolore velit mollit aute qui magna elit excepteur officia cupidatat ea ea aliqua.",
+        "description": "Fresh Roma Tomatoes",
         "modifiedDate": "2019-10-04T06:32:14 -02:00",
-        "name": "fresh tomatoes",
+        "name": "Fresh Tomatoes",
         "package": {
             "height": 881,
             "length": 252,
@@ -125,11 +125,11 @@
         ]
     },
     {
-        "category": "vegetable",
+        "category": "Vegetable",
         "createdDate": "2017-01-07T05:28:03 -01:00",
-        "description": "Ad eiusmod cupidatat duis dolor mollit labore mollit eu.",
+        "description": "Fresh Iceburg Whole Lettuce",
         "modifiedDate": "2019-04-03T10:36:25 -02:00",
-        "name": "fresh lettuce",
+        "name": "Fresh Lettuce",
         "package": {
             "height": 813,
             "length": 932,
@@ -150,11 +150,11 @@
         ]
     },
     {
-        "category": "meat",
+        "category": "Meat",
         "createdDate": "2018-12-03T12:33:44 -01:00",
-        "description": "Amet cupidatat anim ipsum pariatur sit eu.",
+        "description": "New York Bone in Steak USDA Choice in Small Pack.",
         "modifiedDate": "2019-04-17T06:31:47 -02:00",
-        "name": "packaged steak",
+        "name": "Packaged Steak",
         "package": {
             "height": 707,
             "length": 417,
@@ -175,11 +175,11 @@
         ]
     },
     {
-        "category": "vegetable",
+        "category": "Vegetable",
         "createdDate": "2017-04-27T06:48:08 -02:00",
-        "description": "Labore est aliqua laborum ea laboris voluptate cillum aute duis occaecat.",
+        "description": "One Broccoli Crown.",
         "modifiedDate": "2019-11-01T10:23:57 -01:00",
-        "name": "fresh lettuce",
+        "name": "Broccoli",
         "package": {
             "height": 21,
             "length": 311,
@@ -200,11 +200,11 @@
         ]
     },
     {
-        "category": "sweet",
+        "category": "Bakery",
         "createdDate": "2017-11-24T04:01:33 -01:00",
-        "description": "Fugiat sunt in eu eu occaecat.",
+        "description": "Fresh Baked White Iced Cake Slice.",
         "modifiedDate": "2019-05-19T05:53:56 -02:00",
-        "name": "half-eaten cake",
+        "name": "White Cake slice",
         "package": {
             "height": 337,
             "length": 375,
@@ -225,11 +225,11 @@
         ]
     },
     {
-        "category": "dairy",
+        "category": "Dairy",
         "createdDate": "2018-05-29T11:46:28 -02:00",
-        "description": "Aliqua officia magna do ipsum laboris anim magna nulla sit labore nulla qui duis.",
+        "description": "Tillamook Medium Cheddar Cheese Loaf 1 lb.",
         "modifiedDate": "2019-05-29T05:33:49 -02:00",
-        "name": "leftover cheese",
+        "name": "Cheddar Cheese",
         "package": {
             "height": 267,
             "length": 977,
@@ -250,11 +250,11 @@
         ]
     },
     {
-        "category": "bakery",
+        "category": "Bakery",
         "createdDate": "2018-09-22T05:22:38 -02:00",
-        "description": "Ullamco commodo cupidatat reprehenderit eu sunt.",
+        "description": "Fresh Baked Natural Butter Croissants - 24 Count.",
         "modifiedDate": "2019-03-11T06:10:38 -01:00",
-        "name": "fresh croissants",
+        "name": "Fresh Croissants",
         "package": {
             "height": 122,
             "length": 23,
@@ -275,11 +275,11 @@
         ]
     },
     {
-        "category": "meat",
+        "category": "Meat",
         "createdDate": "2018-09-12T07:24:46 -02:00",
-        "description": "Eu ullamco irure qui labore qui duis mollit eiusmod adipisicing fugiat adipisicing nostrud ut non.",
+        "description": "Signature Select Smoked Boneless Cooked Ham - 2 lbs.",
         "modifiedDate": "2019-10-28T01:25:50 -01:00",
-        "name": "packaged ham",
+        "name": "Packaged Ham",
         "package": {
             "height": 902,
             "length": 278,
@@ -300,11 +300,11 @@
         ]
     },
     {
-        "category": "bakery",
+        "category": "Bakery",
         "createdDate": "2017-06-12T09:15:36 -02:00",
-        "description": "Eu culpa nulla est et anim sint amet.",
+        "description": "Daves Killer Bread Organic 21 Whole Grain Bread.",
         "modifiedDate": "2019-08-22T04:22:39 -02:00",
-        "name": "fresh bread",
+        "name": "Fresh Bread",
         "package": {
             "height": 551,
             "length": 976,
@@ -325,11 +325,11 @@
         ]
     },
     {
-        "category": "sweet",
+        "category": "Bakery",
         "createdDate": "2018-09-06T06:03:43 -02:00",
-        "description": "Mollit proident aliquip consectetur irure qui veniam laboris aliqua proident id fugiat esse nulla.",
+        "description": "Bakery Bulk Donut Dozen Assorted - 12 Count.",
         "modifiedDate": "2019-10-16T10:53:33 -02:00",
-        "name": "candied strawberries",
+        "name": "Bulk Donut",
         "package": {
             "height": 55,
             "length": 32,
@@ -350,11 +350,11 @@
         ]
     },
     {
-        "category": "bakery",
+        "category": "Bakery",
         "createdDate": "2017-07-23T12:27:34 -02:00",
-        "description": "Ex non proident et eiusmod et elit est exercitation anim qui ullamco elit.",
+        "description": "Marie Callenders Pie Dutch Apple - 40 oz.",
         "modifiedDate": "2019-09-04T08:25:44 -02:00",
-        "name": "fresh pie",
+        "name": "Fresh Pie",
         "package": {
             "height": 718,
             "length": 59,
@@ -375,11 +375,11 @@
         ]
     },
     {
-        "category": "vegetable",
+        "category": "Vegetable",
         "createdDate": "2018-11-08T04:08:28 -01:00",
-        "description": "Pariatur deserunt nostrud cupidatat ut officia voluptate adipisicing mollit sunt cillum quis magna dolore aute.",
+        "description": "Brussels Sprouts (prewashed) - 2 lbs.",
         "modifiedDate": "2019-10-11T10:28:49 -02:00",
-        "name": "packaged lettuce",
+        "name": "Packaged Brussels",
         "package": {
             "height": 81,
             "length": 57,
@@ -400,11 +400,11 @@
         ]
     },
     {
-        "category": "meat",
+        "category": "Meat",
         "createdDate": "2018-09-28T04:01:24 -02:00",
-        "description": "Dolore nulla laboris incididunt laborum.",
+        "description": "DGround Beef 80% Lean 20% Fat Value Pack - 4 lbs.",
         "modifiedDate": "2019-08-05T01:06:02 -02:00",
-        "name": "leftover ham",
+        "name": "Ground Beef",
         "package": {
             "height": 246,
             "length": 639,
@@ -425,11 +425,11 @@
         ]
     },
     {
-        "category": "dairy",
+        "category": "Dairy",
         "createdDate": "2018-08-23T06:31:47 -02:00",
-        "description": "Pariatur mollit voluptate enim qui pariatur deserunt elit.",
+        "description": "Lucrene Milk Whole 1 Gallon.",
         "modifiedDate": "2019-10-02T10:50:16 -02:00",
-        "name": "fresh milk",
+        "name": "Whole Milk",
         "package": {
             "height": 576,
             "length": 948,
@@ -450,11 +450,11 @@
         ]
     },
     {
-        "category": "vegetable",
+        "category": "Vegetable",
         "createdDate": "2018-02-21T01:55:54 -01:00",
-        "description": "Consectetur laborum ipsum ad laboris.",
+        "description": "Large Hass Avacado - 12 Count.",
         "modifiedDate": "2019-02-23T08:50:01 -01:00",
-        "name": "half-eaten lettuce",
+        "name": "Avacado",
         "package": {
             "height": 348,
             "length": 119,
@@ -475,11 +475,11 @@
         ]
     },
     {
-        "category": "meat",
+        "category": "Meat",
         "createdDate": "2017-05-14T03:39:21 -02:00",
-        "description": "Aliqua tempor irure qui consectetur exercitation culpa minim magna laboris ex pariatur elit culpa.",
+        "description": "USDA Choice Beef Boneless Chuck Roast - 5 lbs.",
         "modifiedDate": "2019-11-24T02:23:27 -01:00",
-        "name": "fresh steak",
+        "name": "Chuck Roast",
         "package": {
             "height": 328,
             "length": 7,
@@ -491,6 +491,31 @@
         ],
         "price": 996,
         "productId": "aa91060a-3601-4cb8-a2cc-025d09c7a9b7",
+        "tags": [
+            "qui",
+            "dolore",
+            "culpa",
+            "est",
+            "duis"
+        ]
+    },
+    {
+        "category": "Meat",
+        "createdDate": "2017-05-14T03:39:21 -02:00",
+        "description": "USDA Choice Beef for Stew - 5 lbs.",
+        "modifiedDate": "2019-11-24T02:23:27 -01:00",
+        "name": "Beef Stew",
+        "package": {
+            "height": 328,
+            "length": 7,
+            "weight": 439,
+            "width": 747
+        },
+        "pictures": [
+            "http://placehold.it/32x32"
+        ],
+        "price": 620,
+        "productId": "aa91060a-3601-4cb8-a2cc-025d08c8a9b7",
         "tags": [
             "qui",
             "dolore",
