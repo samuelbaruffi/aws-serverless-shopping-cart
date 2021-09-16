@@ -81,6 +81,6 @@ export default {
 
 :root {
   /* Colors */
-  --amazonOrange: #e88b01 !important;
+  --amazonOrange: #0421f9 !important;
 }
 </style>
