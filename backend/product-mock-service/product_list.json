@@ -402,7 +402,7 @@
     {
         "category": "Meat",
         "createdDate": "2018-09-28T04:01:24 -02:00",
-        "description": "DGround Beef 80% Lean 20% Fat Value Pack - 4 lbs.",
+        "description": "Ground Beef 80% Lean 20% Fat Value Pack - 4 lbs.",
         "modifiedDate": "2019-08-05T01:06:02 -02:00",
         "name": "Ground Beef",
         "package": {
@@ -414,7 +414,7 @@
         "pictures": [
             "http://placehold.it/32x32"
         ],
-        "price": 728,
+        "price": 1228,
         "productId": "e173d669-b449-4226-af2e-128142abdd30",
         "tags": [
             "exercitation",
@@ -514,8 +514,33 @@
         "pictures": [
             "http://placehold.it/32x32"
         ],
-        "price": 620,
+        "price": 920,
         "productId": "aa91060a-3601-4cb8-a2cc-025d08c8a9b7",
+        "tags": [
+            "qui",
+            "dolore",
+            "culpa",
+            "est",
+            "duis"
+        ]
+    },
+    {
+        "category": "Meat",
+        "createdDate": "2017-05-14T03:39:21 -02:00",
+        "description": "USDA Choice Chicken Thighs - 3 lbs.",
+        "modifiedDate": "2019-11-24T02:23:27 -01:00",
+        "name": "Chicken Thighs",
+        "package": {
+            "height": 328,
+            "length": 7,
+            "weight": 439,
+            "width": 747
+        },
+        "pictures": [
+            "http://placehold.it/32x32"
+        ],
+        "price": 420,
+        "productId": "aa91060a-3601-4cb8-a2cc-025f08c8a9b7",
         "tags": [
             "qui",
             "dolore",
