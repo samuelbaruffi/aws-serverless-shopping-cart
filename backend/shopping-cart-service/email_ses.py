@@ -41,7 +41,7 @@ def send_email(user, email, items):
     <head></head>
     <p style="text-align: right;">Order Confirmation</p>
     <hr />
-    <h1 style="color: #5e9ca0;"><span style="color: #ff9900;">Hello {user},</span></h1>
+    <h1 style="color: #5e9ca0;"><span style="color: #0421f9;">Hello {user},</span></h1>
     <p>Thank you for shopping with us. Here is a summary of your order.</p>
     <table>
     <thead>
