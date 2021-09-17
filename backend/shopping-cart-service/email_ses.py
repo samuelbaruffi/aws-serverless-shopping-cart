@@ -4,7 +4,7 @@ from datetime import datetime
 
 
 def send_email(user, email, items):
-    SENDER = f'Oktank Order Confirmation <{email}>'
+    SENDER = f'AnyCompany Order Confirmation <{email}>'
     RECIPIENT = email
     AWS_REGION = 'us-east-1'
 
